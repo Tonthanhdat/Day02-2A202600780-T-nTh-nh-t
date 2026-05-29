@@ -1,5 +1,3 @@
-# 02 — Group Problem Statement
-
 ## Chủ đề nhóm chọn
 
 ```text
@@ -37,9 +35,6 @@
 | A — Paper / Research Review | Huy #1; Dương #5 | Đọc nhiều paper, lọc ý chính, chọn nguồn phù hợp |
 | B — Notes / Report / Summary | Dương #4; Tùng #9 | Tổng hợp thông tin dài/rải rác thành report/action items |
 | C — Requirement / Product Context | Dương #6; Tùng #7; Tùng #8; Khải #15 | Gom context từ chat/issue/feedback thành decision/checklist/action items |
-| D — Legal QA / RAG Debugging | Đạt #10; Đạt #11; Đạt #12 | Debug hệ thống Legal QA/RAG, verify output, phân tích retrieval/generation |
-| E — Planning / Teaching Prep | Khải #13; Khải #14 | Chuẩn bị kế hoạch/tài liệu cá nhân từ nhiều nguồn |
-| F — Format / Code Template | Huy #2; Huy #3 | Tác vụ lặp lại, có thể xử lý bằng rule/template |
 
 ## 3.3. Shortlist
 
